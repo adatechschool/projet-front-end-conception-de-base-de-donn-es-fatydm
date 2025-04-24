@@ -4,7 +4,7 @@
     justify-items: center;
     justify-content: space-around;
     padding: 10px;
-    background-color: rgb(247, 236, 229);
+    background-color: #f1edeb;
 }
 .h2{
     display: flex;
@@ -14,7 +14,7 @@
     font-weight: 700;
 }
 .h2 .span{
-    color: orangered;
+    color: #e74c3c;
     margin-left: -5px;
 }
 .list {
@@ -30,7 +30,7 @@
     align-items: center;
     gap: 3px;
     font-weight: 600;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 .link:hover{
     text-decoration: underline;
@@ -41,10 +41,10 @@
     justify-content: center;
     align-items: center;
     justify-items: center;
-    background-color: orangered;
+    background-color: #e74c3c;
     border-radius: 30px;
     color: white;
-    width: 10%;
+    width: 15%;
     height: 45px;
     font-weight: 600;
 }
