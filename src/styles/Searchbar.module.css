@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 2rem;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    padding: 20px;
+    width: 60%;
+    position: absolute;
+    top: 40%;
+    left: 20% ;
+    margin-bottom: 10%;
+}
+.petType{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    .petSelect{
+        padding: 5px;
+        border: 1px solid grey;
+        border-radius: 5px;
+        background-color: white;
+    }
+}
+.localization{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    .caseville{
+        padding: 5px;
+        border: 1px solid grey;
+        border-radius: 5px;
+    }
+}
+
+.button{
+    margin-top: 10px;
+    background-color: #333;
+    color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 35%;
+  }
