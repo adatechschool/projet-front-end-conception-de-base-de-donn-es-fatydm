@@ -10,7 +10,7 @@ export default function Navbar() {
                 <div className={styles.divArticle}>
                     <article className={styles.article}>
                         <h4 className={styles.title}>ADAOPTE</h4>
-                        <p>Notre mission est de trouver des foyers aimants pour chaque animal abandonné et de promouvoir le bien-être animal.</p>
+                        <p className={styles.paragraphe}>Notre mission est de trouver des foyers aimants pour chaque animal abandonné et de promouvoir le bien-être animal.</p>
 
                         <div className={styles.divIcon}>
                             <p className={styles.icon}><Facebook /></p>
@@ -18,7 +18,6 @@ export default function Navbar() {
                             <p className={styles.icon}><Linkedin /></p>
                             <p className={styles.icon}><Twitch /></p>
                         </div>
-
                     </article>
 
                     <article className={styles.article}>
@@ -33,10 +32,10 @@ export default function Navbar() {
 
                     <article className={styles.article}>
                         <h4 className={styles.title}>CONTACT</h4>
-                        <p>116 Rue du Faubourg Saint Martin</p>
-                        <p>75010 Paris, France</p>
-                        <p>Email: contact@adaopte.fr</p>
-                        <p>Tél: +33 1 23 45 67 89</p>
+                        <p className={styles.paragraphe}>116 Rue du Faubourg Saint Martin</p>
+                        <p className={styles.paragraphe}>75010 Paris, France</p>
+                        <p className={styles.paragraphe}>Email: contact@adaopte.fr</p>
+                        <p className={styles.paragraphe}>Tél: +33 1 23 45 67 89</p>
                     </article>
                 </div>
 
