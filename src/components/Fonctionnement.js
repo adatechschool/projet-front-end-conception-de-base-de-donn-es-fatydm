@@ -42,10 +42,9 @@ export default function Fonctionnement() {
                 </div>
 
                 <div className={styles.buttonStyle}>
-                    <div className={styles.button}> Adoptez un animal</div>
-                    <div className={`${styles.button} ${styles.red}`}>Faire un don 🫶🏽</div>
-                    <div className={`${styles.button} ${styles.green}`}> Devenir bénévole</div>
-
+                    <button className={styles.button}> Adoptez un animal</button>
+                    <button className={`${styles.button} ${styles.red}`}>Faire un don 🫶🏽</button>
+                    <button className={`${styles.button} ${styles.green}`}> Devenir bénévole</button>
                 </div>
             </section>
         </>
