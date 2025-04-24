@@ -7,7 +7,7 @@ export default function Searchbar() {
 
             <div className={styles.container}>
                 <div className={styles.petType}>
-                    <label for="pet-select">Type d'animal</label>
+                    <label htmlFor="pet-select">Type d'animal</label>
 
                     <select name="pets" id="pet-select" className={styles.petSelect}>
                         <option value="chien">Chien</option>
@@ -18,7 +18,7 @@ export default function Searchbar() {
                 </div>
 
                 <div className={styles.localization}>
-                    <label for="search">Localisation</label>
+                    <label htmlFor="search">Localisation</label>
                     <input className={styles.caseville} type="search" placeholder="Votre ville"/>
                 </div>
 
