@@ -1,11 +1,11 @@
 import styles from "../styles/Banner.module.css"
 
 export default function Banner() {
-    
-    return(
+
+    return (
         <>
-        <div className={styles.home}>
-                <img className={styles.banner} src="./assets/background.jpg" alt="Image d'un chien" />
+            <div className={styles.home}>
+                <img className={styles.banner} src="./images/background.jpg" alt="Image d'un chien" />
                 <h1 className={styles.title}>DONNONS-LEUR AUTANT QU'ILS NOUS APPORTENT</h1>
                 <p className={styles.paragraphe}>
                     Chaque jour, des milliers d'animaux attendent une famille aimante.
@@ -16,7 +16,7 @@ export default function Banner() {
             <div className={styles.search}>
 
             </div>
-    
+
         </>
     )
 }

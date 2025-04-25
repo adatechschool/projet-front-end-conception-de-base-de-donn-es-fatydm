@@ -12,7 +12,7 @@ export default function Navbar() {
                 <ul className={styles.list}>
                     <li><Link className={styles.link} href="/"><House /> Accueil</Link></li>
                     <li><Link className={styles.link} href="/adopt"><Bone /> J'adopte</Link></li>
-                    <li><Link className={styles.link} href="/guide"><Fish /> Guide de l'adoption</Link></li>
+                    <li><Link className={styles.link} href="https://www.defensedelanimal.fr/wp-content/uploads/2022/03/Guide-de-la-belle-adoption-WEB.pdf" target="_blank"><Fish /> Guide de l'adoption</Link></li>
                     <li><Link className={styles.link} href="/volunteer"><Squirrel />Devenir bénévole</Link></li>
                 </ul>
 

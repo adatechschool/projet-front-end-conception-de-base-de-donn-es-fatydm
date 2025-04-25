@@ -4,7 +4,7 @@ import styles from "../styles/Animal_card.module.css";
 
 export default function AnimalsGrid() {
     return (
-        <div className={styles.animalGrid}>
+        <div className={styles.containerGrid}>
             {data.map((animal, index) => (
                 <AnimalCard
                     key={index}

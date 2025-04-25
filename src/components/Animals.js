@@ -11,31 +11,31 @@ export default function Animals() {
 
                 <div className={styles.grid}>
                     <div className={`${styles.item} ${styles.item1}`}>
-                        <img className={styles.img} src="./assets/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item2}`}>
-                        <img className={styles.img} src="./assets/chan-swan-NKyl19P5IHg-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/chan-swan-NKyl19P5IHg-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item3}`}>
-                        <img className={styles.img} src="./assets/jae-park-7GX5aICb5i4-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/jae-park-7GX5aICb5i4-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item4}`}>
-                        <img className={styles.img} src="./assets/melanie-kreutz-IFnknR2Mv5o-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/melanie-kreutz-IFnknR2Mv5o-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item5}`}>
-                        <img className={styles.img} src="./assets/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item6}`}>
-                        <img className={styles.img} src="./assets/alan-king-KZv7w34tluA-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/alan-king-KZv7w34tluA-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item7}`}>
-                        <img className={styles.img} src="./assets/yosei-g-OVgE3m4MHKM-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/yosei-g-OVgE3m4MHKM-unsplash.jpg"></img>
                     </div>
                     <div className={`${styles.item} ${styles.item8}`}>
-                        <img className={styles.img} src="./assets/peri-stojnic-5Vr_RVPfbMI-unsplash.jpg"></img>
+                        <img className={styles.img} src="./images/peri-stojnic-5Vr_RVPfbMI-unsplash.jpg"></img>
                     </div>
                 </div>
-                
+
                 <button className={styles.button}>Voir tous les animaux</button>
             </main>
 
