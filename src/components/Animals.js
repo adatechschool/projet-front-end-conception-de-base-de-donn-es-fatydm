@@ -5,7 +5,7 @@ export default function Animals() {
     return (
         <>
             <main className={styles.container}>
-                <h1 className={styles.title}>NOS ANIMAUX À ADOPTER</h1>
+                <h2 className={styles.title}>NOS ANIMAUX À ADOPTER</h2>
                 <p className={styles.paragraph}>Découvrez en images tous nos animaux qui attendent une famille aimante.
                     Chaque photo raconte une histoire et un espoir.</p>
 
