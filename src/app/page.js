@@ -3,6 +3,7 @@ import Banner from "@/components/Banner"
 import Searchbar from "@/components/SearchBar"
 import Animals from "@/components/Animals"
 import Fonctionnement from "@/components/Fonctionnement"
+import Question from "@/components/Questions"
 
 import { Amatic_SC } from 'next/font/google'
 const amatic = Amatic_SC({
@@ -11,6 +12,7 @@ const amatic = Amatic_SC({
 })
 
 import { Roboto } from 'next/font/google'
+
 const roboto = Roboto({
     subsets: ['latin'],
     weight: ['400', '700']
@@ -32,6 +34,7 @@ export default function Home() {
             <Searchbar />
             <Animals />
             <Fonctionnement />
+            <Question />
         </>
     )
 }

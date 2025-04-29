@@ -1,12 +1,22 @@
 import Head from "next/head"
+import Searchbar from "@/components/SearchBar"
+import AnimalGrid from "@/components/AnimalGrid"
 
 export default function Adopt() {
   return (
     <>
       <Head>
-        <title>Adoptez une compagnon de vie</title>
+        <title>Adoptez un compagnon de vie</title>
       </Head>
-      <h1>ADOPTEZ</h1>
+
+      <section class="sectionSearchBar">
+        <Searchbar />
+      </section>
+
+      <section class="sectionAnimalGrid">
+        <AnimalGrid />
+      </section>
+
     </>
   )
 }
