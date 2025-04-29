@@ -1,0 +1,87 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(247, 245, 245);
+
+    .divForm {
+        border-radius: 8px;
+        margin: auto;
+        margin-top: -100px;
+        margin-bottom: 50px;
+        background-color: white;
+        width: 80%;
+        z-index: 1;
+
+        .title {
+            font-family: 'Amatic SC', cursive;
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #333;
+            text-align: center;
+            padding: 30px;
+        }
+
+        .paragraphe {
+            font-family: 'Roboto' sans-serif;
+            text-align: center;
+            margin-bottom: 20px;
+            color: rgb(117, 116, 116);
+            font-weight: 600;
+        }
+    }
+
+    .formStyle {
+        padding: 30px;
+        line-height: 2;
+
+        div {
+            display: flex;
+            flex-direction: row;
+            gap: 4rem;
+            margin: 10px;
+        }
+
+        li {
+            width: 100%;
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+
+            span {
+                color: red;
+            }
+
+            label {
+                font-weight: 6 00;
+            }
+        }
+
+        input {
+            padding: 10px;
+            border: 1px solid lightgray;
+            border-radius: 5px;
+            width: 100%;
+            height: 35px;
+        }
+
+        textarea {
+            padding: 10px;
+            border: 1px solid lightgray;
+            border-radius: 5px;
+            height: 150px;
+        }
+        .divButton{
+                display: flex;
+                justify-content: center; 
+                margin-top: 30px;
+                gap: 15px;
+            .button {
+                border-radius: 20px;
+                padding: 10px;
+                background-color: #00a652;
+                color: white;
+            }
+        } 
+    }
+}
