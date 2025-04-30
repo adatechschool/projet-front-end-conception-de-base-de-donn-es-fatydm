@@ -1,3 +1,4 @@
+import Link from "next/link"
 import styles from "../styles/Animals.module.css"
 
 export default function Animals() {
@@ -36,7 +37,7 @@ export default function Animals() {
                     </div>
                 </div>
 
-                <button className={styles.button}>Voir tous les animaux</button>
+                <button className={styles.button}><Link href="/adopt">Voir tous les animaux</Link></button>
             </main>
 
 

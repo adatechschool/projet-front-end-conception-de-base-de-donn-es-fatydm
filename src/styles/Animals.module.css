@@ -28,6 +28,9 @@
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
         gap: 0.6rem;
 
+        .item{
+            position: relative;
+        }
         .item1 {
             grid-column: 1;
             grid-row: span 2;
@@ -86,5 +89,8 @@
         height: 45px;
         width: 25%;
         margin-bottom: 20px;
+    }
+    .button:hover{
+        background-color: #8d8c8c;
     }
 }
