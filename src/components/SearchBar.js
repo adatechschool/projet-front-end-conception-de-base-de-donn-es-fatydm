@@ -1,6 +1,13 @@
+'use client'
+import { useRouter } from 'next/navigation'
 import styles from "../styles/Searchbar.module.css"
 
 export default function Searchbar() {
+    const router = useRouter()
+    const submit = () => {
+        router.push('/adopt?type=chien')
+        //recup le type d'animal depuis le select avec une variable d'etat
+    }
 
     return (
         <>
@@ -22,12 +29,12 @@ export default function Searchbar() {
                         <input className={styles.caseville} type="search" placeholder="Votre ville" />
                     </div>
 
-                    <button className={styles.button}>Rechercher 🔎</button>
+                    <button onClick={() => { submit() }} className={styles.button}>Rechercher 🔎</button>
                 </div>
 
                 <div className={styles.reset}>
-                        <p className={styles.foundText}>101 animaux trouvés</p>
-                        <p className={styles.resetFunction}>Réinitialiser les filtres</p>
+                    <p className={styles.foundText}>101 animaux trouvés</p>
+                    <p className={styles.resetFunction}>Réinitialiser les filtres</p>
                 </div>
             </div>
         </>

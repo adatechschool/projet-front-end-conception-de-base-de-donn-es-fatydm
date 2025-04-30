@@ -5,10 +5,9 @@
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     background-color: white;
     width: 65%;
-    position: absolute;
-    top: 40%;
-    left: 20%;
-    margin-bottom: 10%;
+    margin: auto;
+    position: relative;
+    margin-top: -30px;
     border-radius: 10px;
 
     .container {
@@ -17,6 +16,7 @@
         justify-content: flex-start;
         gap: 2rem;
         padding: 20px;
+        z-index: 2;
 
         .petType {
             display: flex;
