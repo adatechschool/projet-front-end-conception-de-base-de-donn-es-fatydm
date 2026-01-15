@@ -24,8 +24,6 @@ export default function Volunteer() {
         <title>Devenez bénévole</title>
       </Head>
 
-
-
       <BannerVolunteer />
       <FormVolunteer class="formVolunteer" />
 
