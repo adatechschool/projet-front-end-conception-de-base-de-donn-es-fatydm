@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Charlie",
+        "age": "5 ans",
+        "breed": "Pug",
+        "type": "Chien",
+        "city": "Lille",
+        "zipcode": "59000",
+        "description": "Charlie est un petit chien calme et affectueux qui adore les balades tranquilles et les caresses sur le canapé.",
+        "imageUrl": "/images/charlesdeluvio-K4mSJ7kc0As-unsplash.jpg"
+    },
+    {
+        "name": "Mia",
+        "age": "2 ans",
+        "breed": "Chat noir et blanc",
+        "type": "Chat",
+        "city": "Strasbourg",
+        "zipcode": "67000",
+        "description": "Mia est une boule de tendresse curieuse et joueuse, toujours prête à ronronner près de vous.",
+        "imageUrl": "/images/manja-vitolic-gKXKBY-C-Dk-unsplash.jpg"
+    },
+    {
+        "name": "Coco",
+        "age": "1 an",
+        "breed": "Lapin",
+        "type": "Lapin",
+        "city": "Annecy",
+        "zipcode": "74000",
+        "description": "Coco est un petit lapin plein d’énergie, très doux et parfait pour un foyer aimant et paisible.",
+        "imageUrl": "/images/chan-swan-NKyl19P5IHg-unsplash.jpg"
+    },
+    {
+        "name": "Rex",
+        "age": "4 ans",
+        "breed": "Chow-chow",
+        "type": "Chien",
+        "city": "Grenoble",
+        "zipcode": "38000",
+        "description": "Rex est un chien loyal et majestueux, idéal pour une personne douce et patiente qui aime les câlins silencieux.",
+        "imageUrl": "/images/alan-king-KZv7w34tluA-unsplash.jpg"
+    },
+    {
+        "name": "Luna",
+        "age": "3 ans",
+        "breed": "Chat Roux",
+        "type": "Chat",
+        "city": "Bordeaux",
+        "zipcode": "33000",
+        "description": "Luna adore les coins ensoleillés et les siestes à vos côtés. Elle vous offrira tout l’amour d’un regard félin.",
+        "imageUrl": "/images/jae-park-7GX5aICb5i4-unsplash.jpg"
+    },
+    {
+        "name": "Biscuit",
+        "age": "3 mois",
+        "breed": "Cochon d'Inde",
+        "type": "Rongeur",
+        "city": "Tours",
+        "zipcode": "37000",
+        "description": "Biscuit est tout petit mais plein de vie ! Il aime les légumes croquants et les instants de douceur en famille.",
+        "imageUrl": "/images/yosei-g-OVgE3m4MHKM-unsplash.jpg"
+    },
+    {
+        "name": "Rio",
+        "age": "5 mois",
+        "breed": "Lapin nain brun",
+        "type": "Lapin",
+        "city": "Poitiers",
+        "zipcode": "86000",
+        "description": "Rio est discret, mignon comme tout, et adore explorer les petits coins de la maison avec délicatesse.",
+        "imageUrl": "/images/melanie-kreutz-IFnknR2Mv5o-unsplash.jpg"
+    },
+    {
+        "name": "Ruby",
+        "age": "2 ans",
+        "breed": "Chien Samoyed",
+        "type": "Chien",
+        "city": "Chamonix",
+        "zipcode": "74400",
+        "description": "Ruby est une boule de neige pleine d’amour ! Elle adore les promenades et les câlins par temps frais.",
+        "imageUrl": "/images/peri-stojnic-5Vr_RVPfbMI-unsplash.jpg"
+    },
+    {
+        "name": "Raisin",
+        "age": "6 ans",
+        "breed": "Cochon-d'inde Abyssinien",
+        "type": "Cochon-d'inde",
+        "city": "Paris",
+        "zipcode": "75000",
+        "description": "Raisin est sociable, il aime vivre avec des compagnons.",
+        "imageUrl": "https://images.unsplash.com/photo-1603805167397-892be3fc3090?q=80&w=1880&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Caramel",
+        "age": "4 ans",
+        "breed": "Hamster Roborovski",
+        "type": "Hamster",
+        "city": "Lille",
+        "zipcode": "59000",
+        "description": "Caramel est adorable et toujours en train de courir dans sa roue.",
+        "imageUrl": "https://images.unsplash.com/photo-1676918555382-fcd06a483e25?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Max",
+        "age": "8 ans",
+        "breed": "Chien Samoyed",
+        "type": "Chien",
+        "city": "Lyon",
+        "zipcode": "69000",
+        "description": "Max est plein d’énergie, adore courir dans les parcs !",
+        "imageUrl": "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FFAC.2Fvar.2Ffemmeactuelle.2Fstorage.2Fimages.2Fanimaux.2Fchiens-et-chats-de-race.2Fchiens-de-race.2Fle-samoyede-00457.2F2141588-2-fre-FR.2Fle-samoyede-precieux-comme-l-or-blanc.2Ejpg/1200x1200/quality/80/crop-from/center/le-samoyede-precieux-comme-l-or-blanc.jpeg"
+    },
+    {
+        "name": "Mini",
+        "age": "2 ans",
+        "breed": "Hamster Russe",
+        "type": "Hamster",
+        "city": "Bordeaux",
+        "zipcode": "33000",
+        "description": "Mini est petit mais costaud, il a une grande personnalité !",
+        "imageUrl": "https://noshamsters.be/hamsteropedia/wp-content/uploads/2020/03/DSC4710-copy.jpg"
+    },
+    {
+        "name": "Mini",
+        "age": "10 ans",
+        "breed": "Hamster Doré",
+        "type": "Hamster",
+        "city": "Lille",
+        "zipcode": "59000",
+        "description": "Mini est adorable et toujours en train de courir dans sa roue.",
+        "imageUrl": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtc3RlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name": "Twix",
+        "age": "10 ans",
+        "breed": "Hamster Chinois",
+        "type": "Hamster",
+        "city": "Lille",
+        "zipcode": "59000",
+        "description": "Twix est curieux et aime stocker sa nourriture dans ses joues.",
+        "imageUrl": "https://lesanimauxdufutur.fr/wp-content/uploads/2024/08/Comportement-et-interaction-du-hamster-chinois-comprendre-et-respecter-son-rythme.jpeg"
+    },
+    {
+        "name": "Mimi",
+        "age": "4 ans",
+        "breed": "Chat Maine Coon",
+        "type": "Chat",
+        "city": "Bordeaux",
+        "zipcode": "33000",
+        "description": "Mimi est indépendant mais aime les caresses quand il en a envie.",
+        "imageUrl": "https://images.unsplash.com/photo-1695591334295-f826fd974265?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hhdCUyMG1haW5lJTIwY29vbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "name": "Twix",
+        "age": "10 ans",
+        "breed": "Hamster Chinois",
+        "type": "Hamster",
+        "city": "Paris",
+        "zipcode": "75000",
+        "description": "Twix est petit mais costaud, il a une grande personnalité !",
+        "imageUrl": "https://jardinage.lemonde.fr/images/dossiers/2018-03/hasmter-chinois-102815.jpg"
+    },
+    {
+        "name": "Charlie",
+        "age": "9 ans",
+        "breed": "Chien Berger Australien",
+        "type": "Chien",
+        "city": "Strasbourg",
+        "zipcode": "67000",
+        "description": "Charlie est un vrai compagnon fidèle, toujours prêt pour une aventure.",
+        "imageUrl": "https://images.ctfassets.net/denf86kkcx7r/2dADpuH8duVVm5ERr3rpsf/eed6673d7430824d6859d6fec7811bc6/berger_australien.jpg?fm=webp&w=612"
+    },
+    {
+        "name": "Loustic",
+        "age": "1 ans",
+        "breed": "Cochon-d'inde Texel",
+        "type": "Cochon-d'inde",
+        "city": "Nantes",
+        "zipcode": "44000",
+        "description": "Loustic est très bavard, il aime communiquer avec ses petits cris.",
+        "imageUrl": "https://www.omlet.fr/images/cache/1024/680/Guinea_Pig-Texel-A_wonderful_little_Texel_Guinea_Pig_with_long_dark_and_red_fur.jpg"
+    },
+    {
+        "name": "Oliver",
+        "age": "8 ans",
+        "breed": "Chat Persan",
+        "type": "Chat",
+        "city": "Nice",
+        "zipcode": "06000",
+        "description": "Oliver est affectueux, il suit partout son humain préféré.",
+        "imageUrl": "https://images.unsplash.com/photo-1582479541280-cd39734b8490?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Chloe",
+        "age": "8 ans",
+        "breed": "Chat Bengal",
+        "type": "Chat",
+        "city": "Lille",
+        "zipcode": "59000",
+        "description": "Chloe est affectueux, il suit partout son humain préféré.",
+        "imageUrl": "https://images.unsplash.com/photo-1598463166228-c0f90d180918?q=80&w=2025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Grisou",
+        "age": "2 ans",
+        "breed": "Hamster Doré",
+        "type": "Hamster",
+        "city": "Nantes",
+        "zipcode": "44000",
+        "description": "Grisou est très actif la nuit, il adore creuser des tunnels.",
+        "imageUrl": "https://nac-magazine.com/wp-content/uploads/2019/01/rongeurs-noctures-ou-diurnes-e1546894065152.jpg"
+    },
+    {
+        "name": "Mimi",
+        "age": "8 ans",
+        "breed": "Chat Persan",
+        "type": "Chat",
+        "city": "Strasbourg",
+        "zipcode": "67000",
+        "description": "Mimi est très calme, parfait pour une vie d’intérieur.",
+        "imageUrl": "https://images.unsplash.com/photo-1598017720921-946225de6f04?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Max",
+        "age": "3 ans",
+        "breed": "Chien Samoyed",
+        "type": "Chien",
+        "city": "Nantes",
+        "zipcode": "44000",
+        "description": "Max est joyeux et très sociable, il s’entend bien avec tout le monde.",
+        "imageUrl": "https://www.centrale-canine.fr/sites/default/files/2024-10/Fiche%20de%20race%20banni%C3%A8re%20samoyede.jpg"
+    },
+    {
+        "name": "Max",
+        "age": "1 ans",
+        "breed": "Chien Teckel",
+        "type": "Chien",
+        "city": "Paris",
+        "zipcode": "75000",
+        "description": "Max est plein d’énergie, adore courir dans les parcs !",
+        "imageUrl": "https://sevetys.fr/_next/image/?url=https%3A%2F%2Fcharming-angel-5ca83bf286.media.strapiapp.com%2FTeckel_445544b359.webp&w=1920&q=75"
+    },
+    {
+        "name": "Nino",
+        "age": "10 ans",
+        "breed": "Chien Samoyed",
+        "type": "Chien",
+        "city": "Strasbourg",
+        "zipcode": "67000",
+        "description": "Nino est curieux, adore découvrir de nouveaux chemins de balade.",
+        "imageUrl": "https://images.prismic.io/myelmut/ZjNkjkMTzAJOCfTo_Captured%E2%80%99%C3%A9cran2024-05-02%C3%A012.01.46.png?auto=format%2Ccompress&fit=max&w=2048"
+    },
+    {
+        "name": "Snowy",
+        "age": "4 ans",
+        "breed": "Lapin Nain",
+        "type": "Lapin",
+        "city": "Paris",
+        "zipcode": "75000",
+        "description": "Snowy est plein de vie, il fait des bonds dans tous les sens.",
+        "imageUrl": "https://assets.gammvert.fr/image/fetch/w_auto,q_auto,f_auto,c_pad/https://images.ctfassets.net/b85ozb2q358o/6462d098568760bafdb1fc26125db9ae24c851fc2e51843d5a0ff06042bc88b7/4a4d042c7ce907405d08ae828e773889/image.png"
+    },
+    {
+        "name": "Sasha",
+        "age": "3 ans",
+        "breed": "Chien Beagle",
+        "type": "Chien",
+        "city": "Strasbourg",
+        "zipcode": "67000",
+        "description": "Sasha est plein d’énergie, adore courir dans les parcs !",
+        "imageUrl": "https://images.ctfassets.net/b85ozb2q358o/6eixE8YyRGrCuETJ2qkdih/537ce305f76c54d20cbbb843ad31a235/beagle_1_34946211.jpeg"
+    },
+    {
+        "name": "Coco",
+        "age": "7 ans",
+        "breed": "Chat Chartreux",
+        "type": "Chat",
+        "city": "Lyon",
+        "zipcode": "69000",
+        "description": "Coco est très câlin et adore se blottir dans les coussins.",
+        "imageUrl": "https://franklinpetfood.com/cdn/shop/files/600X600_CHARTREUX_HEADER.jpg?v=1702905847&width=642"
+    },
+    {
+        "name": "Zouzou",
+        "age": "6 ans",
+        "breed": "Hamster Chinois",
+        "type": "Hamster",
+        "city": "Chamonix",
+        "zipcode": "74400",
+        "description": "Zouzou est très actif la nuit, il adore creuser des tunnels.",
+        "imageUrl": "https://lemagdesanimaux.ouest-france.fr/images/dossiers/2019-11/hamster-de-chine-084014.jpg"
+    },
+    {
+        "name": "Max",
+        "age": "4 ans",
+        "breed": "Chien Berger Australien",
+        "type": "Chien",
+        "city": "Grenoble",
+        "zipcode": "38000",
+        "description": "Max est plein d’énergie, adore courir dans les parcs !",
+        "imageUrl": "https://www.goodbro.fr/wp-content/uploads/berger-australien-233x300.jpg"
+    },
+    {
+        "name": "Oliver",
+        "age": "5 ans",
+        "breed": "Chat Chartreux",
+        "type": "Chat",
+        "city": "Toulouse",
+        "zipcode": "31000",
+        "description": "Oliver est affectueux, il suit partout son humain préféré.",
+        "imageUrl": "https://www.anicura.fr/cdn-cgi/image/f=auto,q=60,trim=0;67;0;488,w=1536,sharpen=1/AdaptiveImages/powerinit/15251/Print_AniCura_Cats_231_chartreux_cat.jpg?stamp=021c1f6c0c215ca63afe883678fa5de0186ae365"
+    },
+    {
+        "name": "Fluffy",
+        "age": "3 ans",
+        "breed": "Lapin Nain",
+        "type": "Lapin",
+        "city": "Bordeaux",
+        "zipcode": "33000",
+        "description": "Fluffy est plein de vie, il fait des bonds dans tous les sens.",
+        "imageUrl": "https://lemeilleurpourmonlapin.fr/wp-content/uploads/2021/03/lapin-nain-belier-guide-complet.jpg"
+    }
+]

@@ -1,0 +1,50 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f1edeb;
+}
+.h2{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+.h2 .span{
+    color: #e74c3c;
+    margin-left: -5px;
+}
+.list {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    color: black;
+}
+.link {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+.donation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    background-color: #e74c3c;
+    border-radius: 30px;
+    color: white;
+    width: 15%;
+    height: 45px;
+    font-weight: 600;
+}
